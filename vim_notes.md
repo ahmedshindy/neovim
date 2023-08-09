@@ -1,16 +1,16 @@
 ### Vim tutorials
 
 --- 
-`x` : to delete a char 
-`di"` : to delete inside the quotes
-`u`  : undo
-`yi"` : copy inside the quotes 
-`dG`: delete all the way to the end
-`dgg` :delete all the way to the beginnig of the document
-`p`  :to paste 
-`s`  : delete and go to insert mode
-`ctrl + w` : delete the previous word from the insert mode
-`ctrl+o`  from inset mode , then enter any command as usual like `yy`
+- `x` : to delete a char 
+- `di"` : to delete inside the quotes
+- `u`  : undo
+- `yi"` : copy inside the quotes 
+-`dG`: delete all the way to the end
+- `dgg` :delete all the way to the beginnig of the document
+- `p`  :to paste 
+- `s`  : delete and go to insert mode
+- - `ctrl + w` : delete the previous word from the insert mode
+- `ctrl+o`  from inset mode , then enter any command as usual like `yy`
 `ctrl + h`  :  delete the previous char from the inset mode
 `ctrl + u`  :  delete the previous chars from the beginning of the line, from the inset mode
 `o & O`    : go to inset mode into the next line
@@ -19,14 +19,16 @@
 to indent an entire document
 1. `gg`
 2. `=G`
---- low `L`, Middle `M`, High `H `to go through the document.
-alsuo you can use `ctrl + u` or `ctrl + h` to go up & down
-`: set spell` : to activate spell checking
-`: set no spell` or : `set spell&`  or `: set spell!`  
-you can also hit `up and down` to traverse commands like the terminal
-`:help j`
-to exit `ctrl+w` then `c` close : for window close
+---- low `L`, Middle `M`, High `H `to go through the document.
+-alsuo you can use `ctrl + u` or `ctrl + h` to go up & down
+-`: set spell` : to activate spell checking
+-`: set no spell` or : `set spell&`  or `: set spell!`  
+-you can also hit `up and down` to traverse commands like the terminal
+-`:help j`
+-to exit `ctrl+w` then `c` close : for window close
 `:help i_<Esc>`  : tell me the purpose of the Esc key inside the inset mode
 
 For more checkout the [Video](https://www.youtube.com/watch?v=13gNtgqzzmM&pp=ygUJdmltIHRpcHMg)
 --- 
+next [50+ Vim Tips and Tricks from Beginner to Expert](https://www.youtube.com/watch?v=ZEIpdC_klDI)
+blogs[docs](https://riptutorial.com/vim/example/7301/insert-text-into-multiple-lines-at-once)
