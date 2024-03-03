@@ -32,3 +32,8 @@ For more checkout the [Video](https://www.youtube.com/watch?v=13gNtgqzzmM&pp=ygU
 --- 
 next [50+ Vim Tips and Tricks from Beginner to Expert](https://www.youtube.com/watch?v=ZEIpdC_klDI)
 blogs[docs](https://riptutorial.com/vim/example/7301/insert-text-into-multiple-lines-at-once)
+to watch: [10 Advanced Vim Features (You Probably Didn't Know)](https://www.youtube.com/watch?v=gccGjwTZA7k)
+----- 14 - 8 
+hit dot `.` to repeat the pre action
+[Masteing the Vim Language ](https://www.youtube.com/watch?v=wlR5gYd6um0)
+
